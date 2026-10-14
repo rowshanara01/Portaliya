@@ -1,0 +1,158 @@
+[
+  {
+    "name": "Rahim Uddin",
+    "email": "rahimuddin@example.com",
+    "comments": "ওয়েবসাইটটি ব্যবহার করা সহজ এবং খুবই দ্রুত লোড হয়। খুবই ভালো লেগেছে।",
+    "rating": "5"
+  },
+  {
+    "name": "Salma Khatun",
+    "email": "salmakhatun@example.com",
+    "comments": "ডিজাইনটি বেশ আকর্ষণীয় এবং তথ্যগুলো সহজেই খুঁজে পাওয়া যায়।",
+    "rating": "4"
+  },
+  {
+    "name": "Fahim Hasan",
+    "email": "fahimhasan@example.com",
+    "comments": "ওয়েবসাইটের নেভিগেশন খুব সহজ। কিন্তু মাঝে মাঝে কিছু লিঙ্ক সঠিকভাবে কাজ করে না।",
+    "rating": "3"
+  },
+  {
+    "name": "Nusrat Jahan",
+    "email": "nusratjahan@example.com",
+    "comments": "মোবাইল থেকেও ওয়েবসাইটটি দারুণভাবে কাজ করে, এটা খুবই ভালো বিষয়।",
+    "rating": "5"
+  },
+  {
+    "name": "Arif Hossain",
+    "email": "arifhossain@example.com",
+    "comments": "ওয়েবসাইটের পেজগুলো দ্রুত লোড হয়, তবে কিছু সময় পেমেন্ট সিস্টেমে সমস্যা হয়।",
+    "rating": "4"
+  },
+  {
+    "name": "Shabnam Akter",
+    "email": "shabnamakter@example.com",
+    "comments": "ওয়েবসাইটের ব্যবহারযোগ্যতা খুবই সহজ। কিন্তু কিছু নতুন ফিচার যোগ করা যেতে পারে।",
+    "rating": "4"
+  },
+  {
+    "name": "Jahidul Islam",
+    "email": "jahidulislam@example.com",
+    "comments": "ওয়েবসাইটের রেসপন্সিভ ডিজাইন অনেক ভালোভাবে করা হয়েছে। সব ডিভাইসে ঠিকভাবে দেখা যায়।",
+    "rating": "5"
+  },
+  {
+    "name": "Mithila Rahman",
+    "email": "mithilarahman@example.com",
+    "comments": "ওয়েবসাইটটি বেশ ব্যবহারবান্ধব। তবে কিছু ফিচার নিয়ে আরো কাজ করা উচিত।",
+    "rating": "4"
+  },
+  {
+    "name": "Tariqul Islam",
+    "email": "tariqulislam@example.com",
+    "comments": "ওয়েবসাইটের নেভিগেশন এবং ডিজাইন বেশ সুন্দর। প্রথমবার ব্যবহার করলেও কোনো সমস্যা হয়নি।",
+    "rating": "5"
+  },
+  {
+    "name": "Alamin Sarkar",
+    "email": "alaminsarkar@example.com",
+    "comments": "ওয়েবসাইটটি ভালো। তবে আমি আশা করেছিলাম আরও উন্নত ফিচার পাওয়া যাবে।",
+    "rating": "3"
+  },
+  {
+    "name": "Shafiqur Rahman",
+    "email": "shafiqurrahman@example.com",
+    "comments": "ওয়েবসাইটটি ভালো। তবে মাঝে মাঝে সার্ভারের কারণে লোড হতে সময় নেয়।",
+    "rating": "3"
+  },
+  {
+    "name": "Nasrin Akter",
+    "email": "nasrinakter@example.com",
+    "comments": "ওয়েবসাইটের সার্চ ফিচারটি বেশ কার্যকর। আমি সহজেই যেটা খুঁজছিলাম সেটা পেয়ে গেছি।",
+    "rating": "4"
+  },
+  {
+    "name": "Rashedul Islam",
+    "email": "rashedulislam@example.com",
+    "comments": "ওয়েবসাইটটি ব্যবহার করা সহজ, তবে কিছু পুরানো তথ্য আপডেট করা উচিত।",
+    "rating": "3"
+  },
+  {
+    "name": "Farzana Nahar",
+    "email": "farzananahar@example.com",
+    "comments": "ওয়েবসাইটের পেমেন্ট সিস্টেম অনেক সহজ। আমি কোনো সমস্যা ছাড়াই ব্যবহার করতে পেরেছি।",
+    "rating": "5"
+  },
+  {
+    "name": "Saiful Alam",
+    "email": "saifulalam@example.com",
+    "comments": "ওয়েবসাইটটি বেশ দ্রুত কাজ করে এবং ফিচারগুলোও সহজবোধ্য।",
+    "rating": "5"
+  },
+  {
+    "name": "Mokhlesur Rahman",
+    "email": "mokhlesurrahman@example.com",
+    "comments": "ওয়েবসাইটের ইউজার ইন্টারফেস বেশ আকর্ষণীয়। কিন্তু মাঝে মাঝে কিছু ফিচার স্লো কাজ করে।",
+    "rating": "4"
+  },
+  {
+    "name": "Parveen Akter",
+    "email": "parveenakter@example.com",
+    "comments": "ওয়েবসাইটটি খুবই সুবিধাজনক এবং বিভিন্ন সেবা খুব সহজে পাওয়া যায়।",
+    "rating": "5"
+  },
+   {
+    "name": "Abdur Rashid Sawom",
+    "email": "asawom250@gmail.com",
+    "comments": "ওয়েবসাইটটি খুব দ্রুত লোড হয় এবং এর ইউজার ইন্টারফেসও খুবই ব্যবহারবান্ধব। নতুন ব্যবহারকারীদের জন্যও এটি সহজবোধ্য।",
+    "rating": "5"
+  },
+  {
+    "name": "Abdur Rashid Sawom",
+    "email": "asawom250@gmail.com",
+    "comments": "ওয়েবসাইটের সার্চ ফাংশন এবং ফিল্টারিং সিস্টেম খুব ভালো। তবে ডাউনলোড ফিচারটি আরও উন্নত করা যেতে পারে।",
+    "rating": "4"
+  },
+  {
+    "name": "Salma Khatun",
+    "email": "salmakhatun@example.com",
+    "comments": "ডিজাইনটি বেশ আকর্ষণীয় এবং তথ্যগুলো সহজেই খুঁজে পাওয়া যায়।",
+    "rating": "4"
+  },
+  {
+    "name": "Fahim Hasan",
+    "email": "fahimhasan@example.com",
+    "comments": "ওয়েবসাইটের নেভিগেশন খুব সহজ। কিন্তু মাঝে মাঝে কিছু লিঙ্ক সঠিকভাবে কাজ করে না।",
+    "rating": "3"
+  },
+  {
+    "name": "Nusrat Jahan",
+    "email": "nusratjahan@example.com",
+    "comments": "মোবাইল থেকেও ওয়েবসাইটটি দারুণভাবে কাজ করে, এটা খুবই ভালো বিষয়।",
+    "rating": "5"
+  },
+  {
+    "name": "Arif Hossain",
+    "email": "arifhossain@example.com",
+    "comments": "ওয়েবসাইটের পেজগুলো দ্রুত লোড হয়, তবে কিছু সময় পেমেন্ট সিস্টেমে সমস্যা হয়।",
+    "rating": "4"
+  },
+  {
+    "name": "Shabnam Akter",
+    "email": "shabnamakter@example.com",
+    "comments": "ওয়েবসাইটের ব্যবহারযোগ্যতা খুবই সহজ। কিন্তু কিছু নতুন ফিচার যোগ করা যেতে পারে।",
+    "rating": "4"
+  },
+  {
+    "name": "Tariqul Islam",
+    "email": "tariqulislam@example.com",
+    "comments": "ওয়েবসাইটের নেভিগেশন এবং ডিজাইন বেশ সুন্দর। প্রথমবার ব্যবহার করলেও কোনো সমস্যা হয়নি।",
+    "rating": "5"
+  },
+  {
+    "name": "Alamin Sarkar",
+    "email": "alaminsarkar@example.com",
+    "comments": "ওয়েবসাইটটি ভালো। তবে আমি আশা করেছিলাম আরও উন্নত ফিচার পাওয়া যাবে।",
+    "rating": "3"
+  }
+]
