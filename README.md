@@ -16,4 +16,4 @@ Other Features: <br>
 2. Password reset and pagination features are implemented. <br>
 From logo design to deploy, all are done by me.
 
-Live site: https://gilded-brioche-c3f211.netlify.app
+
