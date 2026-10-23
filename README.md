@@ -14,6 +14,6 @@ User Section
 Other Features: <br>
 1. Both users and admins have separate profile pages. <br>
 2. Password reset and pagination features are implemented. <br>
-From logo design to deploy, all are done by me.
+.
 
 
